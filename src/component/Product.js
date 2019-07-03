@@ -16,7 +16,7 @@ class Product extends Component {
                     <CardBody>
                         <CardTitle style={styleTitle}>{this.props.title}</CardTitle>
                         <CardText>{this.props.text}</CardText>
-                        <Button color="info">Button</Button>
+                        <Button color="info">Nhap</Button>
                     </CardBody>
                 </Card>
             </Col>
